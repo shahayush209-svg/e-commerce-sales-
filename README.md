@@ -112,7 +112,7 @@ Through this project, the ability to:
 * Support the decision making of businesses through their strategic implementation.
 
 Screenshot
-https://github.com/shahayush209-svg/e-commerce-sales-/blob/main/sales.png
+
 
 
 
