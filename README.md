@@ -113,7 +113,10 @@ Through this project, the ability to:
 
 Screenshot
 https://github.com/shahayush209-svg/e-commerce-sales-/blob/main/sales.png
+
 https://github.com/shahayush209-svg/e-commerce-sales-/blob/main/return.png
+
+https://github.com/shahayush209-svg/e-commerce-sales-/blob/main/business%20insights.png
 
 
 
